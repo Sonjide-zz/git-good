@@ -5,4 +5,10 @@
 
 Its very good!
 
+Learning about nano txt editor and GIT command
+
+To save Control + X
+
+
+
 
