@@ -1,4 +1,5 @@
 # Learning Git
+
 ## Learning Git commands 
 
 - Great practice !
@@ -17,7 +18,4 @@ git commit -m a-value-or-message
 
 git push origin master
 
-
-
-
-
+We are in the developer branch
